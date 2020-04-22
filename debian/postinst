@@ -27,3 +27,5 @@ systemctl restart passwall-server
 echo "Your settings are stored in /usr/bin/passwall/server/store/config.yml"
 
 printf "You can login with: \nUsername: passwall \nPassword: password\n"
+
+printf "Web address: http://localhost:3625 \n"
